@@ -1,0 +1,39 @@
+body {
+  font-family: "Poppins";
+}
+
+.content {
+  height: 500px;
+}
+
+.card {
+  margin-top: 150px;
+  background-image: url(../img/biography-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-body {
+}
+
+.card-footer {
+  background-color: #1374d6 !important;
+}
+.card-header {
+  background-color: #1cd1d8;
+}
+.clock {
+  position: relative;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  font-weight: 700;
+  color: orange;
+  font-size: 60px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+}
+#session {
+  color: #1cd1d8;
+}
